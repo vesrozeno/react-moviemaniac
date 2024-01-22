@@ -12,6 +12,12 @@ This project is basically an application for movie infos, filtering by rating an
 
 <img title="dark-theme" alt="movie maniac on dark theme" src="./src/assets/moviemaniac-dark.png">
 
+### Movie details:
+
+Once you hover a movie poster, its details will be displayed. Clicking on it will open the selected movie page on TMDB.
+
+<img title="movie-details" alt="movie details on hover" src="./src/assets/moviemaniac-details.png">
+
 ### Light theme:
 
 For better UX, light theme (toggled by a switch at the top) has been implemented:

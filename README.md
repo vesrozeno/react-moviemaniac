@@ -16,4 +16,4 @@ This project is basically an application for movie infos, filtering by rating an
 
 For better UX, light theme (toggled by a switch at the top) has been implemented:
 
-<img title="dark-theme" alt="movie maniac on dark theme" src="./src/assets/moviemaniac-light.png">
+<img title="light-theme" alt="movie maniac on light theme" src="./src/assets/moviemaniac-light.png">

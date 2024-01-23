@@ -14,7 +14,7 @@ const Navbar = () => {
         <a href="#popular">
           Popular <img src={Fire} alt="fire_emoji" className="navbar_emoji" />
         </a>
-        <a href="#top-rated">
+        <a href="#top_rated">
           Top Rated <img src={Star} alt="star_emoji" className="navbar_emoji" />
         </a>
         <a href="#upcoming">

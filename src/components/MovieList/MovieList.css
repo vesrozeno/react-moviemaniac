@@ -17,9 +17,11 @@
 .movie_filter_item {
   padding: 5px 10px;
   cursor: pointer;
+  color: var(--body-color);
 }
+
 .movie_filter_item.active {
-  border-bottom: 1px solid #e6e6e6;
+  border-bottom: 1px solid var(--heading-color);
   font-weight: 500;
 }
 
@@ -33,6 +35,8 @@
   height: 30px;
   padding: 0 5px;
   margin: 0 10px;
+  color: var(--body-color);
+  background-color: var(--body-background);
 }
 
 .movie_cards {

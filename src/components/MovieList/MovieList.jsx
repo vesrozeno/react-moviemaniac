@@ -29,6 +29,7 @@ const MovieList = ({ type, title }) => {
     );
     const data = await response.json();
     setMovies(data.results);
+    setFilterMovies(data.results);
   };
 
   const handleFilter = (rate) => {

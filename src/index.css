@@ -8,6 +8,7 @@
   --body-color: #fff;
   --heading-color: #e0cc11;
 }
+
 [data-theme="light"] {
   --body-background: #fff;
   --body-color: #101010;
